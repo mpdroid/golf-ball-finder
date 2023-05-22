@@ -1,6 +1,6 @@
 **Dude, where's my ball? Privacy Notice**
 
-Last updated November 2, 2022
+Last updated May 22, 2023
 
 
 "Dude, where's my ball?" is a mobile application that helps find golf balls. 
