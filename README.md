@@ -1,4 +1,4 @@
-# dude-where-s-my-ball
+# dude-where's-my-ball
 Support repository for "Dude, where's my ball?"
 
 Find your lost golf balls with this AI-powered golf-ball finder. 
